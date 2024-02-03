@@ -6,7 +6,6 @@ I am a software engineer developing applications for  Apple Platforms.
 
 - [Mastodon: @kikeenrique][mastodon-profile]
 - [Stack Overflow Developer Story: @kikeenrique][stackoverflow-devloper-profile]
-- [Twitter: @kikeenrique][twitter-profile]
 
 ## 📊 My coding stats
 
@@ -19,7 +18,6 @@ I am a software engineer developing applications for  Apple Platforms.
 
 Thank me.
 
-[twitter-profile]: https://twitter.com/kikeenrique
 [stackoverflow-devloper-profile]: https://stackoverflow.com/users/721929/kikeenrique
 [github-profile]: https://github.com/kikeenrique
 [github-repos]: https://github.com/kikeenrique?tab=repositories
